@@ -23,15 +23,6 @@ A simple finance app built for practice — upload your CSV bank transactions to
 
 
 ---
-
-## 📦 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/jasrmg/FINANCE_AUTOMATION.git
-cd FINANCE_AUTOMATION
-
 🛠 Tech Stack
 Python
 
@@ -58,5 +49,15 @@ If you'd like to improve this app, feel free to fork the repo and submit a pull 
 
 📄 License
 This project is licensed under the MIT License.
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/jasrmg/FINANCE_AUTOMATION.git
+cd FINANCE_AUTOMATION 
 
 
