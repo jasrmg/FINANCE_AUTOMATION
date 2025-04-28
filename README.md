@@ -31,4 +31,4 @@ A simple finance app built for practice — upload your CSV bank transactions to
 
 ```bash
 git clone https://github.com/jasrmg/FINANCE_AUTOMATION.git
-cd simple-finance-app
+cd FINANCE_AUTOMATION
