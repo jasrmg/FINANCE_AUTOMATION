@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore Streamlit temp files
+.streamlit/
+
+# Ignore VSCode settings if you use VSCode
+.vscode/
+
+# Ignore environment variables (if any)
+.env
