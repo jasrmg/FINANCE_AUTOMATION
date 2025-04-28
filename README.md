@@ -31,3 +31,32 @@ A simple finance app built for practice — upload your CSV bank transactions to
 ```bash
 git clone https://github.com/jasrmg/FINANCE_AUTOMATION.git
 cd FINANCE_AUTOMATION
+
+🛠 Tech Stack
+Python
+
+Streamlit — Frontend & server
+
+Pandas — Data handling
+
+Plotly — (Planned) Data visualization
+
+🗺 Roadmap
+ Upload and view transactions
+
+ Categorize expenses
+
+ Add data visualization (pie charts, bar graphs)
+
+ Allow editing and deleting of categories
+
+ Budget tracking features
+
+🤝 Contributing
+Contributions are welcome!
+If you'd like to improve this app, feel free to fork the repo and submit a pull request.
+
+📄 License
+This project is licensed under the MIT License.
+
+
